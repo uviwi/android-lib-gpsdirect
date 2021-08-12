@@ -1,3 +1,4 @@
+# *Warning : This library is still under development, please don't use it*
 # GPS Direction Android Studio Library
 
 this is library for direction compass between 2 location 
